@@ -1,1 +1,1 @@
-data/ts/plano.JPEG
+data/ts/0.JPEG
