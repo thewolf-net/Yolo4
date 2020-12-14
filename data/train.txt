@@ -94,8 +94,6 @@ data/ts/122.jpg
 data/ts/123.jpg
 data/ts/124.jpg
 data/ts/126.jpg
-data/ts/127.jpg
-data/ts/128.jpg
 data/ts/129.jpg
 data/ts/130.jpg
 data/ts/131.jpg
