@@ -1,5 +1,0 @@
-clases = 17
-tren = datos / tren.txt
-válido = datos / prueba.txt
-nombres = datos / clases.nombres
-backup = backup
