@@ -12,7 +12,7 @@ and cfg/yolov4_custom_test.cfg
 """
 
 classes=17
-max_batches=8000
+max_batches=20000
 batch=64
 subdivisions=16
 width=416
